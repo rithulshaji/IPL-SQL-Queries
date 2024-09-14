@@ -191,3 +191,5 @@ SELECT player_name, StrikeRate
 FROM cte2
 WHERE Drnk <= 5;
 ```
+
+### By Rithul Shaji
